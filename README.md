@@ -30,7 +30,7 @@ Additional features:
 ![Demo Map View for Berlin](./screenshots/mapBerlin.gif)
 
 ## Demo Sign In with Google
-![Demo Sign In with Google](./screenshots/signIn.gif)
+![Demo Sign In with Google](./screenshots/signin.gif)
 
 ## Demo Property Details
 ![Demo Property Details](./screenshots/details.gif)
