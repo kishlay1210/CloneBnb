@@ -27,10 +27,10 @@ Additional features:
 ![Demo Apple Integration](./screenshots/appleIntegration.gif)
 
 ## Demo Map View for Berlin
-![Demo Map View for Berlin](./screenshots/mapView.gif)
+![Demo Map View for Berlin](./screenshots/mapBerlin.gif)
 
 ## Demo Sign In with Google
-![Demo Sign In with Google](./screenshots/fullApp.gif)
+![Demo Sign In with Google](./screenshots/signIn.gif)
 
 ## Demo Property Details
 ![Demo Property Details](./screenshots/details.gif)
