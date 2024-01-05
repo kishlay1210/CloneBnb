@@ -23,10 +23,11 @@ Additional features:
 
 </div> -->
 
-## Demo
-
+## Demo Apple Integration
 ![Demo Apple Integration](./screenshots/appleIntegration.gif)
 
+## Demo Map View for Berlin
 ![Demo Map View for Berlin](./screenshots/mapView.gif)
 
+## Demo Sign In with Google
 ![Demo Sign In with Google](./screenshots/fullApp.gif)
