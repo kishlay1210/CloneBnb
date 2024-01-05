@@ -31,3 +31,9 @@ Additional features:
 
 ## Demo Sign In with Google
 ![Demo Sign In with Google](./screenshots/fullApp.gif)
+
+## Demo Property Details
+![Demo Property Details](./screenshots/details.gif)
+
+## Demo Explore
+![Demo Explore](./screenshots/explore.gif)
